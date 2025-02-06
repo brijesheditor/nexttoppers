@@ -1,5 +1,371 @@
 [
     {
+    "_id": "67a2cb23118aa531f52be27e",
+    "batch_name": "SIDDHI 2025 - Class 9th",
+    "batch_start_date": "2025-01-23T18:30:00.000Z",
+    "batch_class": "9",
+    "batch_id": "67875493e48d9092573f92ce",
+    "batch_slug": "siddhi-2025---class-9th-679043",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7572dabf-8b58-4d09-a107-53c9e1f1e32c.png",
+    "batch_exam": "FOUNDATION"
+  }, {
+    "_id": "67a446f9118aa531f531e20f",
+    "batch_name": "Udaan 2026 (Class 10th)",
+    "batch_start_date": "2025-04-13T18:30:00.000Z",
+    "batch_class": "10",
+    "batch_id": "65df241600f257001881fbbd",
+    "batch_slug": "udaan-2026--class-10th--050777",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e12fd00f-a69e-4939-a3b2-eea32999f11a.png",
+    "batch_exam": "FOUNDATION"
+  },
+  {
+    "_id": "67742bf2118aa531f5682655",
+    "batch_name": "Udaan 2026",
+    "batch_start_date": "2025-04-01T00:00:00.000Z",
+    "batch_class": "10",
+    "batch_id": "65df241600f257001881fbbd",
+    "batch_slug": "udaan-2026-126440",
+    "batch_banner": "-",
+    "batch_exam": "FOUNDATION"
+  },
+  {
+    "_id": "67701bbf118aa531f557b4d8",
+    "batch_name": "Vidyapeeth Class 10th (Target 2026)",
+    "batch_start_date": "2025-03-31T18:30:00.000Z",
+    "batch_class": "10",
+    "batch_id": "66ec1298c1178ce0dd087366",
+    "batch_slug": "vidyapeeth-class-10th--target-2026--443318",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/03d47545-d2a6-4178-adc6-4044e73ef9b1.jpg",
+    "batch_exam": "FOUNDATION"
+  },
+  {
+    "_id": "67a2ee6b118aa531f52d0137",
+    "batch_name": "10th Board Booster 2.0 2025",
+    "batch_start_date": "2025-01-12T18:30:00.000Z",
+    "batch_class": "10",
+    "batch_id": "67780454b7c465688476b99f",
+    "batch_slug": "10th-board-booster-2-0-2025-727311",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0122dba8-1190-45d3-a38c-0951230c71fc.png",
+    "batch_exam": "FOUNDATION"
+  },
+  {
+    "_id": "67a259d2118aa531f52a4b7e",
+    "batch_name": "Knockout - Class 10th",
+    "batch_start_date": "2025-01-08T18:30:00.000Z",
+    "batch_class": "10",
+    "batch_id": "677e0c69cf5ee0191824e5de",
+    "batch_slug": "knockout---class-10th-753065",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/fddb0622-bb62-4e64-a1e1-0c1e9771496a.jpg",
+    "batch_exam": "FOUNDATION"
+  }, {
+    "_id": "679f043a118aa531f51c7831",
+    "batch_name": "GATE-2025 All India Mock Test - All Branch",
+    "batch_start_date": "2025-01-15T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "67889f55ae528a8eb86c176a",
+    "batch_slug": "gate-2025-all-india-mock-test---all-branch-572958",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/aa7689ac-1275-4898-aed2-9fedd7e1002f.jpeg",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "679bc17f118aa531f50f8f03",
+    "batch_name": "GATE 2025 Preparation - Chemical",
+    "batch_start_date": "2025-01-03T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "67765d859b4c3e1d477ff57c",
+    "batch_slug": "gate-2025-preparation---chemical-239256",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f9b36be1-c8b6-4071-8703-ab743ce242b6.jpg",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "67a4477a118aa531f531e7e6",
+    "batch_name": "Parakram GATE 2026 Batch B - (Hinglish) - Computer Science",
+    "batch_start_date": "2025-01-01T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "67531f0ff0951d1b8b2ad9af",
+    "batch_slug": "parakram-gate-2026-batch-b----hinglish----computer-science-328723",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a273073d-3c58-442d-9813-f14da99bb464.png",
+    "batch_exam": "GATE"
+  },{
+    "_id": "679d8c18118aa531f516d59c",
+    "batch_name": "Shreshth GATE 2027 Batch B - (Hinglish) - Electronics",
+    "batch_start_date": "2024-12-25T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "6753282ca083e4648f598758",
+    "batch_slug": "shreshth-gate-2027-batch-b----hinglish----electronics-510923",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a617dbfe-c31e-45e2-8944-8854e5253dcd.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "679b4ec1118aa531f50d5582",
+    "batch_name": "REAL Test GATE 2025 :  IMPORTANT UPDATES",
+    "batch_start_date": "2024-12-19T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "6761805b29d139ac53f07f3d",
+    "batch_slug": "real-test-gate-2025---important-updates-895305",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2d5f8e81-811a-445d-a057-14ccbc6d2442.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "67a1ad8d118aa531f5279595",
+    "batch_name": "Crash Course GATE 2025 Data Science",
+    "batch_start_date": "2024-11-06T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "66f7e4ef8ed2a0fdbb1a4121",
+    "batch_slug": "crash-course-gate-2025-data-science-782697",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7509ddeb-3198-4329-b8ab-5329f5b1d4f8.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "678fdc93118aa531f5dc2b15",
+    "batch_name": "Crash Course GATE 2025 Civil Engineering",
+    "batch_start_date": "2024-11-04T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "671f543e668f2c291dec4472",
+    "batch_slug": "crash-course-gate-2025-civil-engineering-794645",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/91e6d5d5-ccdf-4cf5-9804-8329d7cfc9b3.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "679b7a2c118aa531f50e17d5",
+    "batch_name": "Crash Course GATE 2025 Electrical Engineering",
+    "batch_start_date": "2024-11-04T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "671f543fd9b6dca495f52707",
+    "batch_slug": "crash-course-gate-2025-electrical-engineering-266403",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/56555cc4-ba6e-4fbc-a683-7f08c9e193f6.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "67a09f7b118aa531f52317fc",
+    "batch_name": "Crash Course GATE 2025 Mechanical Engineering",
+    "batch_start_date": "2024-11-04T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "671f543eb32528231fa3d6a2",
+    "batch_slug": "crash-course-gate-2025-mechanical-engineering-747275",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1f450471-c16c-4547-8269-11ff0f18326b.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "67a0a276118aa531f5232f95",
+    "batch_name": "Crash Course GATE 2025 Computer Science and IT",
+    "batch_start_date": "2024-11-04T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "671f543f10df7bb168d0296a",
+    "batch_slug": "crash-course-gate-2025-computer-science-and-it-200846",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8e8a5b99-c5dd-4bbe-b2bb-663dfef9398a.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "67a1d880118aa531f5285e73",
+    "batch_name": "Crash Course GATE 2025 Electronics Engineering",
+    "batch_start_date": "2024-11-04T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "671f543fd9b6dca495f52710",
+    "batch_slug": "crash-course-gate-2025-electronics-engineering-581152",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/baef1a84-3c51-489d-829d-2e9ad68bef6a.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "67655df0118aa531f52a5a10",
+    "batch_name": "Parakram GATE 2026 Batch - (Hinglish) - Mechanical",
+    "batch_start_date": "2024-10-09T00:00:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "66e167bcc61de74950324c96",
+    "batch_slug": "parakram-gate-2026-batch----hinglish----mechanical-203611",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/90f12952-d5a7-475c-b637-294c7e4697c3.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "673b3f06118aa531f57df9f3",
+    "batch_name": "Parakram GATE 2026 Batch - (Hinglish) - Electrical",
+    "batch_start_date": "2024-10-06T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "66e167bda4c38c5dd0cae648",
+    "batch_slug": "parakram-gate-2026-batch----hinglish----electrical-566238",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e439b652-2959-475f-9a69-f4fbfc122af6.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "676ad939118aa531f5413aea",
+    "batch_name": "Super 1500 GATE 2025 Batch - (Hinglish) - Computer Science",
+    "batch_start_date": "2024-10-06T00:00:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "66e16bdb7cb3ea9b561e82f0",
+    "batch_slug": "super-1500-gate-2025-batch----hinglish----computer-science-196217",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/da1bae1c-3c91-4acb-b147-ab57226a078f.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "678f39bc118aa531f5d89cb1",
+    "batch_name": "Parakram GATE 2026 Batch - (Hinglish) - Electronics",
+    "batch_start_date": "2024-10-06T00:00:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "66e167bd453938d607831333",
+    "batch_slug": "parakram-gate-2026-batch----hinglish----electronics-483415",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c22dc946-cfe5-4e35-8583-3607d76597fb.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "677ebbd2118aa531f592eba8",
+    "batch_name": "Backlog Killer for GATE Civil Engineering",
+    "batch_start_date": "2024-10-02T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "66f7e4ed1312f3130e98abcf",
+    "batch_slug": "backlog-killer-for-gate-civil-engineering-094681",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/205eeb68-485f-43e1-b7db-5dbb2f955a87.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "679ce65d118aa531f5147331",
+    "batch_name": "Backlog Killer for GATE Computer Science and IT",
+    "batch_start_date": "2024-10-02T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "66f7e4efbae7314294e86c6c",
+    "batch_slug": "backlog-killer-for-gate-computer-science-and-it-085799",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/0107e6ea-4881-4e97-8936-05ed059cda7f.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "679e4ab2118aa531f51a1417",
+    "batch_name": "Backlog Killer for GATE Mechanical Engineering",
+    "batch_start_date": "2024-10-02T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "66f7e4ed9ebc57bc6ec03f82",
+    "batch_slug": "backlog-killer-for-gate-mechanical-engineering-277361",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1b3f77f4-bde2-40e2-ac48-27fe399d1022.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "67a3a3c1118aa531f52fed9f",
+    "batch_name": "Backlog Killer for GATE Electrical Engineering",
+    "batch_start_date": "2024-10-02T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "66f7e4efbae7314294e86c63",
+    "batch_slug": "backlog-killer-for-gate-electrical-engineering-670920",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/398b0f62-ba4a-4ff9-a052-0d9fa5783dcf.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "678928e1118aa531f5bed136",
+    "batch_name": "Super 1500 GATE 2025 Batch - (Hinglish) - Data Science & Artificial Intelligence",
+    "batch_start_date": "2024-09-28T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "66e16bdf453938d607832916",
+    "batch_slug": "super-1500-gate-2025-batch----hinglish----data-science-and-artificial-intelligence-215607",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/97671364-67d6-4b23-ac6c-76de2f4ca4bc.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "67987116118aa531f50005f8",
+    "batch_name": "Super 1500 GATE 2025 Batch - (Hinglish) - Electronics",
+    "batch_start_date": "2024-09-28T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "66e16bde1a9bb42ee6a0eee5",
+    "batch_slug": "super-1500-gate-2025-batch----hinglish----electronics-219675",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/6bedffa6-bbb0-4811-9a58-c0842609a50c.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "679c5646118aa531f51171d8",
+    "batch_name": "Super 1500 GATE 2025 Batch - (Hinglish) - Mechanical",
+    "batch_start_date": "2024-09-28T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "66e16bdcaddd2cd38641cf11",
+    "batch_slug": "super-1500-gate-2025-batch----hinglish----mechanical-316353",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/dd990c49-3c2d-49b5-95e7-b9c5cea8c850.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "67456b48118aa531f5a69105",
+    "batch_name": "Shreshth GATE 2027 Batch - (Hinglish) - Computer Science",
+    "batch_start_date": "2024-09-24T00:00:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "66e167bf2ea2f27dad9d4aa1",
+    "batch_slug": "shreshth-gate-2027-batch----hinglish----computer-science-850940",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5815a06f-e3b2-40b2-b139-69160069bf6f.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "678bc965118aa531f5ca5c69",
+    "batch_name": "PW Semesters Wallah - Civil",
+    "batch_start_date": "2024-08-13T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "66bee4a223cd860018b25716",
+    "batch_slug": "pw-semesters-wallah---civil-083200",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4ec2661d-2bac-4e68-b60e-17d41c6c06f7.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "679ce64b118aa531f51472d5",
+    "batch_name": "PW Semesters Wallah - Computer Science & IT",
+    "batch_start_date": "2024-08-13T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "66bee4a33eea43001879fc50",
+    "batch_slug": "pw-semesters-wallah---computer-science-and-it-225323",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/00649a8d-a608-45f7-b521-28d37e9320a1.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "679e5b1e118aa531f51a54d9",
+    "batch_name": "PW Semesters Wallah - Electrical",
+    "batch_start_date": "2024-08-13T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "66bee4a2d9ff750018ee8aba",
+    "batch_slug": "pw-semesters-wallah---electrical-720081",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e3e2b3c5-09dd-4276-98ec-d162ca13fc57.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "67a09eda118aa531f52315cb",
+    "batch_name": "PW Semesters Wallah - Mechanical",
+    "batch_start_date": "2024-08-13T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "66bee4a23eea43001879fc47",
+    "batch_slug": "pw-semesters-wallah---mechanical-384627",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c13aae76-b676-4a6c-829d-630d87ccd225.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "67a2c875118aa531f52bd0ea",
+    "batch_name": "PW Semesters Wallah - Electronics",
+    "batch_start_date": "2024-08-13T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "66bee4a36bc85f00186dfed7",
+    "batch_slug": "pw-semesters-wallah---electronics-608107",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3db2bdb0-f6a0-4e49-820c-c6bd130dc0ef.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "6795c4a0118aa531f5f4c4af",
+    "batch_name": "Shreshth 2.0 GATE 2026 Batch - B (Hinglish)  - Electrical",
+    "batch_start_date": "2024-07-03T00:00:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "665b024085b77d00185267d2",
+    "batch_slug": "shreshth-2-0-gate-2026-batch---b--hinglish----electrical-589034",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1b020a2b-ba51-4a7f-85e9-29a57baa0e07.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "67a11df6118aa531f525218b",
+    "batch_name": "Shreshth 2.0 GATE 2026 Batch - B (Hinglish)  - Civil",
+    "batch_start_date": "2024-06-25T00:00:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "665b023fbca7d70018f62e18",
+    "batch_slug": "shreshth-2-0-gate-2026-batch---b--hinglish----civil-048605",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/26779042-63c1-4300-8b65-23e16e599e72.png",
+    "batch_exam": "GATE"
+  },
+  {
+    "_id": "6711392b77735a0ae2255da6",
+    "batch_name": "Shreshth 2.0 GATE 2026 + PSUs + Placement Preparation Batch B - Computer Science & IT",
+    "batch_start_date": "2024-05-27T18:30:00.000Z",
+    "batch_class": "Under Graduation",
+    "batch_id": "6635f149a0aac300184336cf",
+    "batch_slug": "shreshth-2-0-gate-2026---psus---placement-preparation-batch-b---computer-science-and-it-585711",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d76880b3-261d-4650-b098-5fe5a976f475.png",
+    "batch_exam": "GATE"
+  }, {
         "batch_name": "Udaan Diamond 2025 Recorded",
         "batch_class": "10th",
         "batch_id": "669c0064ee4f9000182720ed",
