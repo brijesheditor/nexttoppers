@@ -1,5 +1,202 @@
 [
     {
+    "batch_name": "Lakshya JEE Fastrack 2025",
+    "batch_class": "",
+    "batch_id": "lakshya-jee-fastrack-2025-865844",
+    "batch_slug": "lakshya-jee-fastrack-2025-865844",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/27ce23af-db21-4ee1-a61c-685436b96693.png",
+    "batch_exam": "",
+    "batch_start_date": ""
+  },
+  {
+    "batch_name": "Striker JEE 2025",
+    "batch_class": "",
+    "batch_id": "striker-jee-2025-840850",
+    "batch_slug": "striker-jee-2025-840850",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/657cc6e1-9881-45ba-8327-068ab2a32407.png",
+    "batch_exam": "",
+    "batch_start_date": ""
+  },
+  {
+    "batch_name": "Lakshya JEE 2.0 2025",
+    "batch_class": "",
+    "batch_id": "lakshya-jee-2-0-2025-073029",
+    "batch_slug": "lakshya-jee-2-0-2025-073029",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/993d60d9-2459-46da-b804-f05c819ee5d4.png",
+    "batch_exam": "",
+    "batch_start_date": ""
+  },
+  {
+    "batch_name": "Varun JEE Advanced 2025",
+    "batch_class": "",
+    "batch_id": "varun-jee-advanced-2025-963496",
+    "batch_slug": "varun-jee-advanced-2025-963496",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/aa3ec83b-bade-4278-a1ea-cec932a9d026.jpg",
+    "batch_exam": "",
+    "batch_start_date": ""
+  },
+  {
+    "batch_name": "Lakshya JEE AIR 2.0 2025 Recorded",
+    "batch_class": "",
+    "batch_id": "lakshya-jee-air-2-0-2025-recorded-348618",
+    "batch_slug": "lakshya-jee-air-2-0-2025-recorded-348618",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3bf7de03-3ed2-4474-ac17-2a7fabcadeb5.png",
+    "batch_exam": "",
+    "batch_start_date": ""
+  },
+  {
+    "batch_name": "Lakshya JEE 3.0 2025",
+    "batch_class": "",
+    "batch_id": "lakshya-jee-3-0-2025-820217",
+    "batch_slug": "lakshya-jee-3-0-2025-820217",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1c776883-50f9-43c1-8513-70617c384939.png",
+    "batch_exam": "",
+    "batch_start_date": ""
+  },
+  {
+    "batch_name": "Lakshya JEE 2025",
+    "batch_class": "",
+    "batch_id": "lakshya-jee-2025-095106",
+    "batch_slug": "lakshya-jee-2025-095106",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1da7fd49-8e2c-44da-a186-5134e41d4d01.png",
+    "batch_exam": "",
+    "batch_start_date": ""
+  },
+  {
+    "batch_name": "Arjuna JEE 2024",
+    "batch_class": "",
+    "batch_id": "arjuna-jee-2024-626729",
+    "batch_slug": "arjuna-jee-2024-626729",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/bbc72039-b850-4722-b5e9-c0ab36d75979.png",
+    "batch_exam": "",
+    "batch_start_date": ""
+  },
+  {
+    "batch_name": "Arjuna JEE 2.0 2024",
+    "batch_class": "",
+    "batch_id": "arjuna-jee-2-0-2024-429328",
+    "batch_slug": "arjuna-jee-2-0-2024-429328",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/a004bce0-8173-450a-8847-2f4c6538c39f.png",
+    "batch_exam": "",
+    "batch_start_date": ""
+  },
+  {
+    "batch_name": "Manzil JEE 2025",
+    "batch_class": "",
+    "batch_id": "manzil-jee-2025-727956",
+    "batch_slug": "manzil-jee-2025-727956",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/fefe16f2-38a8-40fa-b797-e26eccb62d39.jpg",
+    "batch_exam": "",
+    "batch_start_date": ""
+  },
+  {
+    "batch_name": "Lakshya JEE 2024",
+    "batch_class": "",
+    "batch_id": "lakshya-jee-2024-911516",
+    "batch_slug": "lakshya-jee-2024-911516",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/59eff261-1a09-4075-8c54-8ecb7a531bc8.png",
+    "batch_exam": "",
+    "batch_start_date": ""
+  },
+  {
+    "batch_name": "REAL Test Series (12th JEE): IMPORTANT UPDATES",
+    "batch_class": "",
+    "batch_id": "real-test-series--12th-jee---important-updates-045321",
+    "batch_slug": "real-test-series--12th-jee---important-updates-045321",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/50e43607-2abf-43fa-b1d6-96628e6a7c0c.jpg",
+    "batch_exam": "",
+    "batch_start_date": ""
+  },
+  {
+    "batch_name": "Top 100 MIQs For JEE 2025",
+    "batch_class": "",
+    "batch_id": "top-100-miqs-for-jee-2025-239939",
+    "batch_slug": "top-100-miqs-for-jee-2025-239939",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/795eaaf7-2429-4a2c-bc2b-9741ec3e3fb9.jpg",
+    "batch_exam": "",
+    "batch_start_date": ""
+  },
+  {
+    "batch_name": "Demo Batch_09 (12th_JEE_Bilingual)",
+    "batch_class": "",
+    "batch_id": "demo-batch_09--12th_jee_bilingual--206402",
+    "batch_slug": "demo-batch_09--12th_jee_bilingual--206402",
+    "batch_banner": "",
+    "batch_exam": "",
+    "batch_start_date": ""
+  },
+  {
+    "batch_name": "Uday 2.0 2025",
+    "batch_class": "",
+    "batch_id": "uday-2-0-2025-945808",
+    "batch_slug": "uday-2-0-2025-945808",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/828e50d6-7f6f-4cb7-9e8b-e4e1b3dd61ee.png",
+    "batch_exam": "",
+    "batch_start_date": ""
+  },
+  {
+    "batch_name": "Uday 2025",
+    "batch_class": "",
+    "batch_id": "uday-2025-855248",
+    "batch_slug": "uday-2025-855248",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/bef435a4-08a5-4894-9969-2df492c3bff8.png",
+    "batch_exam": "",
+    "batch_start_date": ""
+  },
+  {
+    "batch_name": "Arjuna NEET 4.0 2025",
+    "batch_class": "",
+    "batch_id": "arjuna-neet-4-0-2025-814072",
+    "batch_slug": "arjuna-neet-4-0-2025-814072",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4d42f8ca-0d76-4abf-adce-13d4813a6a13.png",
+    "batch_exam": "",
+    "batch_start_date": ""
+  },
+  {
+    "batch_name": "Arjuna NEET 3.0 2025",
+    "batch_class": "",
+    "batch_id": "arjuna-neet-3-0-2025-909329",
+    "batch_slug": "arjuna-neet-3-0-2025-909329",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/92d103e1-4cd7-436a-82ae-25c6eee55881.png",
+    "batch_exam": "",
+    "batch_start_date": ""
+  },
+  {
+    "batch_name": "Arjuna NEET 2025",
+    "batch_class": "",
+    "batch_id": "arjuna-neet-2025-515083",
+    "batch_slug": "arjuna-neet-2025-515083",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/2d5028d2-e44b-4444-9bb6-52fbd882f40c.png",
+    "batch_exam": "",
+    "batch_start_date": ""
+  },
+  {
+    "batch_name": "Arjuna NEET 2.0 2025",
+    "batch_class": "",
+    "batch_id": "arjuna-neet-2-0-2025-621640",
+    "batch_slug": "arjuna-neet-2-0-2025-621640",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/707c06a3-d320-4140-bb79-05ed4835f692.png",
+    "batch_exam": "",
+    "batch_start_date": ""
+  },
+  {
+    "batch_name": "Safar Vidyapeeth - NEET",
+    "batch_class": "",
+    "batch_id": "safar-vidyapeeth---neet-148685",
+    "batch_slug": "safar-vidyapeeth---neet-148685",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9e1b50ff-a4f3-4fc7-acd6-2f2c9835969a.jpg",
+    "batch_exam": "",
+    "batch_start_date": ""
+  },
+  {
+    "batch_name": "Alchemy by Nikhil Sir",
+    "batch_class": "",
+    "batch_id": "alchemy-by-nikhil-sir-892571",
+    "batch_slug": "alchemy-by-nikhil-sir-892571",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/38bbd953-94b6-4125-bb0d-9e72694b78ce.png",
+    "batch_exam": "",
+    "batch_start_date": ""
+  },{
         "_id": "67a2ee6b118aa531f52d0137",
         "batch_name": "10th Board Booster 2.0 2025",
         "batch_start_date": "2025-01-12T18:30:00.000Z",
