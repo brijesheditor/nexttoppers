@@ -1,0 +1,609 @@
+{
+    "success": true,
+    "cohorts": [
+        {
+            "_id": "6661e5d99d78b27d6d55623f",
+            "name": "Class 12th JEE",
+            "slug": "class-12th-jee",
+            "createdAt": "2024-06-06T16:37:45.502Z",
+            "updatedAt": "2024-06-06T16:37:45.502Z",
+            "__v": 0
+        },
+        {
+            "_id": "6662fd62630d32a6f1679433",
+            "name": "Class 11th NEET",
+            "slug": "class-11th-neet",
+            "batches": [],
+            "createdAt": "2024-06-07T12:30:26.773Z",
+            "updatedAt": "2024-06-07T12:30:26.773Z",
+            "__v": 0
+        },
+        {
+            "_id": "6662fee6630d32a6f167943c",
+            "name": "Dropper JEE",
+            "slug": "dropper-jee",
+            "batches": [],
+            "createdAt": "2024-06-07T12:36:54.765Z",
+            "updatedAt": "2024-06-07T12:36:54.765Z",
+            "__v": 0
+        },
+        {
+            "_id": "6664755fb78ceaae04440085",
+            "name": "Class 12th",
+            "slug": "class-12th",
+            "createdAt": "2024-06-08T15:14:39.639Z",
+            "updatedAt": "2024-06-08T15:14:39.639Z",
+            "__v": 0
+        },
+        {
+            "_id": "666482ba8a77fb43ab6a6fa1",
+            "name": "CUET UG",
+            "slug": "cuet-ug",
+            "createdAt": "2024-06-08T16:11:38.808Z",
+            "updatedAt": "2024-06-08T16:11:38.808Z",
+            "__v": 0
+        },
+        {
+            "_id": "666488363f529b2c574175f2",
+            "name": "MBA",
+            "slug": "mba",
+            "createdAt": "2024-06-08T16:35:02.169Z",
+            "updatedAt": "2024-06-08T16:35:02.169Z",
+            "__v": 0
+        },
+        {
+            "_id": "666a9664fd9e280f2126edce",
+            "name": "CSIR NET",
+            "slug": "csir-net",
+            "createdAt": "2024-06-13T06:49:08.063Z",
+            "updatedAt": "2024-06-13T06:49:08.063Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693ed3f5d99238addc5b617",
+            "name": "Class 5th",
+            "slug": "class-5th",
+            "createdAt": "2024-07-14T15:22:39.182Z",
+            "updatedAt": "2024-07-14T15:22:39.182Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693ed7b5d99238addc5b61f",
+            "name": "Olympiad",
+            "slug": "olympiad",
+            "createdAt": "2024-07-14T15:23:39.634Z",
+            "updatedAt": "2024-07-14T15:23:39.634Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693eec85d99238addc5b635",
+            "name": "LKG",
+            "slug": "lkg",
+            "createdAt": "2024-07-14T15:29:12.297Z",
+            "updatedAt": "2024-07-14T15:29:12.297Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693ef7d5d99238addc5b641",
+            "name": "IGCSE",
+            "slug": "igcse",
+            "createdAt": "2024-07-14T15:32:13.330Z",
+            "updatedAt": "2024-07-14T15:32:13.330Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693efeb5d99238addc5b651",
+            "name": "UP Exams",
+            "slug": "up-exams",
+            "createdAt": "2024-07-14T15:34:03.017Z",
+            "updatedAt": "2024-07-14T15:34:03.017Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693f0de5d99238addc5b661",
+            "name": "PARAMEDICAL",
+            "slug": "paramedical",
+            "createdAt": "2024-07-14T15:38:06.456Z",
+            "updatedAt": "2024-07-14T15:38:06.456Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693f1ce5d99238addc5b671",
+            "name": "Class 4th",
+            "slug": "class-4th",
+            "createdAt": "2024-07-14T15:42:06.473Z",
+            "updatedAt": "2024-07-14T15:42:06.473Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693f32b5d99238addc5b685",
+            "name": "EUNEXT",
+            "slug": "eunext",
+            "createdAt": "2024-07-14T15:47:55.672Z",
+            "updatedAt": "2024-07-14T15:47:55.672Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693f4005d99238addc5b68f",
+            "name": "IELTS",
+            "slug": "ielts",
+            "createdAt": "2024-07-14T15:51:28.602Z",
+            "updatedAt": "2024-07-14T15:51:28.602Z",
+            "__v": 0
+        },
+        {
+            "_id": "666486ad3f529b2c574174fd",
+            "name": "GATE",
+            "slug": "gate",
+            "createdAt": "2024-06-08T16:28:29.411Z",
+            "updatedAt": "2024-06-08T16:28:29.411Z",
+            "__v": 0
+        },
+        {
+            "_id": "666487193f529b2c5741753a",
+            "name": "SSC",
+            "slug": "ssc",
+            "createdAt": "2024-06-08T16:30:17.108Z",
+            "updatedAt": "2024-06-08T16:30:17.108Z",
+            "__v": 0
+        },
+        {
+            "_id": "666487cf3f529b2c574175df",
+            "name": "TET",
+            "slug": "tet",
+            "createdAt": "2024-06-08T16:33:19.729Z",
+            "updatedAt": "2024-06-08T16:33:19.729Z",
+            "__v": 0
+        },
+        {
+            "_id": "6664885d3f529b2c57417604",
+            "name": "NEET PG",
+            "slug": "neet-pg",
+            "createdAt": "2024-06-08T16:35:41.717Z",
+            "updatedAt": "2024-06-08T16:35:41.717Z",
+            "__v": 0
+        },
+        {
+            "_id": "66657f85ca06ee1d075f36b4",
+            "name": "AE/JE",
+            "slug": "ae-je",
+            "createdAt": "2024-06-09T10:10:13.465Z",
+            "updatedAt": "2024-06-09T10:10:13.465Z",
+            "__v": 0
+        },
+        {
+            "_id": "6666e07f6f757cb54990fd5d",
+            "name": "IIT JAM",
+            "slug": "iit-jam",
+            "createdAt": "2024-06-10T11:16:15.501Z",
+            "updatedAt": "2024-06-10T11:16:15.501Z",
+            "__v": 0
+        },
+        {
+            "_id": "66671934ee1d433fe91579d8",
+            "name": "Class 7th",
+            "slug": "class-7th",
+            "createdAt": "2024-06-10T15:18:12.861Z",
+            "updatedAt": "2024-06-10T15:18:12.861Z",
+            "__v": 0
+        },
+        {
+            "_id": "6667c4d7861b3f3aeeb21158",
+            "name": "Teaching",
+            "slug": "teaching",
+            "createdAt": "2024-06-11T03:30:31.522Z",
+            "updatedAt": "2024-06-11T03:30:31.522Z",
+            "__v": 0
+        },
+        {
+            "_id": "666fe686755c83cbf80218f6",
+            "name": "Class 11th",
+            "slug": "class-11th",
+            "createdAt": "2024-06-17T07:32:22.142Z",
+            "updatedAt": "2024-06-17T07:32:22.142Z",
+            "__v": 0
+        },
+        {
+            "_id": "6678eb0c9ba29aa344dd99cd",
+            "name": "IPMAT",
+            "slug": "ipmat",
+            "createdAt": "2024-06-24T03:42:04.506Z",
+            "updatedAt": "2024-06-24T03:42:04.506Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693ed605d99238addc5b61b",
+            "name": "Railway",
+            "slug": "railway",
+            "createdAt": "2024-07-14T15:23:12.116Z",
+            "updatedAt": "2024-07-14T15:23:12.116Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693ee465d99238addc5b629",
+            "name": "Unigo",
+            "slug": "unigo",
+            "createdAt": "2024-07-14T15:27:02.666Z",
+            "updatedAt": "2024-07-14T15:27:02.666Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693ee675d99238addc5b62d",
+            "name": "LAW",
+            "slug": "law",
+            "createdAt": "2024-07-14T15:27:35.857Z",
+            "updatedAt": "2024-07-14T15:27:35.857Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693eeb75d99238addc5b631",
+            "name": "BFSI",
+            "slug": "bfsi",
+            "createdAt": "2024-07-14T15:28:55.506Z",
+            "updatedAt": "2024-07-14T15:28:55.506Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693ef1e5d99238addc5b63d",
+            "name": "JAIIB AND CAIIB",
+            "slug": "jaiib-and-caiib",
+            "createdAt": "2024-07-14T15:30:38.295Z",
+            "updatedAt": "2024-07-14T15:30:38.295Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693ef9b5d99238addc5b645",
+            "name": "OPSC",
+            "slug": "opsc",
+            "createdAt": "2024-07-14T15:32:43.380Z",
+            "updatedAt": "2024-07-14T15:32:43.380Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693efb95d99238addc5b649",
+            "name": "MPSC",
+            "slug": "mpsc",
+            "createdAt": "2024-07-14T15:33:13.976Z",
+            "updatedAt": "2024-07-14T15:33:13.976Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693f0175d99238addc5b655",
+            "name": "ONLINE DEGREES",
+            "slug": "online-degrees",
+            "createdAt": "2024-07-14T15:34:47.424Z",
+            "updatedAt": "2024-07-14T15:34:47.424Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693f1215d99238addc5b665",
+            "name": "MBBS PROF",
+            "slug": "mbbs-prof",
+            "createdAt": "2024-07-14T15:39:13.176Z",
+            "updatedAt": "2024-07-14T15:39:13.176Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693f2d85d99238addc5b67d",
+            "name": "Only IAS",
+            "slug": "only-ias",
+            "createdAt": "2024-07-14T15:46:32.576Z",
+            "updatedAt": "2024-07-14T15:46:32.576Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693f3915d99238addc5b68b",
+            "name": "Bihar Exams",
+            "slug": "bihar-exams",
+            "createdAt": "2024-07-14T15:49:37.143Z",
+            "updatedAt": "2024-07-14T15:49:37.143Z",
+            "__v": 0
+        },
+        {
+            "_id": "6661e1b39d78b27d6d556207",
+            "name": "Class 11th JEE",
+            "slug": "class-11th-jee",
+            "createdAt": "2024-06-06T16:20:03.386Z",
+            "updatedAt": "2024-06-06T16:20:03.386Z",
+            "__v": 0
+        },
+        {
+            "_id": "6662fd69630d32a6f1679436",
+            "name": "Class 12th NEET",
+            "slug": "class-12th-neet",
+            "batches": [],
+            "createdAt": "2024-06-07T12:30:33.758Z",
+            "updatedAt": "2024-06-07T12:30:33.758Z",
+            "__v": 0
+        },
+        {
+            "_id": "666474f9b78ceaae04440034",
+            "name": "Class 10th",
+            "slug": "class-10th",
+            "createdAt": "2024-06-08T15:12:57.975Z",
+            "updatedAt": "2024-06-08T15:12:57.975Z",
+            "__v": 0
+        },
+        {
+            "_id": "6664807147f57acdd762a21b",
+            "name": "UPSC",
+            "slug": "upsc",
+            "createdAt": "2024-06-08T16:01:53.801Z",
+            "updatedAt": "2024-06-08T16:01:53.801Z",
+            "__v": 0
+        },
+        {
+            "_id": "666488bb3f529b2c5741761a",
+            "name": "Skills",
+            "slug": "skills",
+            "createdAt": "2024-06-08T16:37:15.622Z",
+            "updatedAt": "2024-06-08T16:37:15.622Z",
+            "__v": 0
+        },
+        {
+            "_id": "66658a4427dc0062c607bb01",
+            "name": "DEFENCE",
+            "slug": "defence",
+            "createdAt": "2024-06-09T10:56:04.229Z",
+            "updatedAt": "2024-06-09T10:56:04.229Z",
+            "__v": 0
+        },
+        {
+            "_id": "6666e1281c96bd98dae8035e",
+            "name": "Class 8th",
+            "slug": "class-8th",
+            "createdAt": "2024-06-10T11:19:04.251Z",
+            "updatedAt": "2024-06-10T11:19:04.251Z",
+            "__v": 0
+        },
+        {
+            "_id": "666726992ea50592931b9382",
+            "name": "Nursing Wallah",
+            "slug": "nursing-wallah",
+            "createdAt": "2024-06-10T16:15:21.207Z",
+            "updatedAt": "2024-06-10T16:15:21.207Z",
+            "__v": 0
+        },
+        {
+            "_id": "666737c65908af6a0181b0fc",
+            "name": "CS",
+            "slug": "cs",
+            "createdAt": "2024-06-10T17:28:38.199Z",
+            "updatedAt": "2024-06-10T17:28:38.199Z",
+            "__v": 0
+        },
+        {
+            "_id": "667ae7c1f8a230965d91fe06",
+            "name": "NET JRF",
+            "slug": "net-jrf",
+            "createdAt": "2024-06-25T15:52:33.452Z",
+            "updatedAt": "2024-06-25T15:52:33.452Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693eedb5d99238addc5b639",
+            "name": "Accounting Courses",
+            "slug": "accounting-courses",
+            "createdAt": "2024-07-14T15:29:31.213Z",
+            "updatedAt": "2024-07-14T15:29:31.213Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693f0785d99238addc5b659",
+            "name": "Judiciary",
+            "slug": "judiciary",
+            "createdAt": "2024-07-14T15:36:24.620Z",
+            "updatedAt": "2024-07-14T15:36:24.620Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693f0b15d99238addc5b65d",
+            "name": "UGC NET",
+            "slug": "ugc-net",
+            "createdAt": "2024-07-14T15:37:21.534Z",
+            "updatedAt": "2024-07-14T15:37:21.534Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693f1575d99238addc5b66d",
+            "name": "ARCHITECTURE",
+            "slug": "architecture",
+            "createdAt": "2024-07-14T15:40:07.725Z",
+            "updatedAt": "2024-07-14T15:40:07.725Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693f30b5d99238addc5b681",
+            "name": "WB Exams",
+            "slug": "wb-exams",
+            "createdAt": "2024-07-14T15:47:23.034Z",
+            "updatedAt": "2024-07-14T15:47:23.034Z",
+            "__v": 0
+        },
+        {
+            "_id": "6662fede630d32a6f1679439",
+            "name": "Dropper NEET",
+            "slug": "dropper-neet",
+            "batches": [],
+            "createdAt": "2024-06-07T12:36:46.092Z",
+            "updatedAt": "2024-06-07T12:36:46.092Z",
+            "__v": 0
+        },
+        {
+            "_id": "6664825c47f57acdd762a28e",
+            "name": "CA",
+            "slug": "ca",
+            "createdAt": "2024-06-08T16:10:04.222Z",
+            "updatedAt": "2024-06-08T16:10:04.222Z",
+            "__v": 0
+        },
+        {
+            "_id": "666485208a77fb43ab6a700c",
+            "name": "Class 9th",
+            "slug": "class-9th",
+            "createdAt": "2024-06-08T16:21:52.667Z",
+            "updatedAt": "2024-06-08T16:21:52.667Z",
+            "__v": 0
+        },
+        {
+            "_id": "6664874a3f529b2c57417551",
+            "name": "Banking",
+            "slug": "banking",
+            "createdAt": "2024-06-08T16:31:06.046Z",
+            "updatedAt": "2024-06-08T16:31:06.046Z",
+            "__v": 0
+        },
+        {
+            "_id": "6664889c3f529b2c5741760e",
+            "name": "BPSC",
+            "slug": "bpsc",
+            "createdAt": "2024-06-08T16:36:44.835Z",
+            "updatedAt": "2024-06-08T16:36:44.835Z",
+            "__v": 0
+        },
+        {
+            "_id": "6666df29019a6d83771d4551",
+            "name": "ESE + GATE",
+            "slug": "ese-gate",
+            "createdAt": "2024-06-10T11:10:33.071Z",
+            "updatedAt": "2024-06-10T11:10:33.071Z",
+            "__v": 0
+        },
+        {
+            "_id": "66686f5ee9defca20621da0c",
+            "name": "Navy SSR",
+            "slug": "navy-ssr",
+            "createdAt": "2024-06-11T15:38:06.237Z",
+            "updatedAt": "2024-06-11T15:38:06.237Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693edc75d99238addc5b623",
+            "name": "UPPSC",
+            "slug": "uppsc",
+            "createdAt": "2024-07-14T15:24:55.897Z",
+            "updatedAt": "2024-07-14T15:24:55.897Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693efcb5d99238addc5b64d",
+            "name": "Class 6th",
+            "slug": "class-6th",
+            "createdAt": "2024-07-14T15:33:31.264Z",
+            "updatedAt": "2024-07-14T15:33:31.264Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693f1455d99238addc5b669",
+            "name": "Class 3rd",
+            "slug": "class-3rd",
+            "createdAt": "2024-07-14T15:39:49.943Z",
+            "updatedAt": "2024-07-14T15:39:49.943Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693f1de5d99238addc5b675",
+            "name": "Design",
+            "slug": "design",
+            "createdAt": "2024-07-14T15:42:22.970Z",
+            "updatedAt": "2024-07-14T15:42:22.970Z",
+            "__v": 0
+        },
+        {
+            "_id": "6693f2455d99238addc5b679",
+            "name": "Humanities",
+            "slug": "humanities",
+            "createdAt": "2024-07-14T15:44:05.538Z",
+            "updatedAt": "2024-07-14T15:44:05.538Z",
+            "__v": 0
+        },
+        {
+            "_id": "66dd79fc026255e582d6369d",
+            "name": "Nursing Exams",
+            "slug": "nursing-exams",
+            "createdAt": "2024-09-08T10:18:36.068Z",
+            "updatedAt": "2024-09-08T10:18:36.068Z",
+            "__v": 0
+        },
+        {
+            "_id": "66dd7af4026255e582d636a1",
+            "name": "FMGE",
+            "slug": "fmge",
+            "createdAt": "2024-09-08T10:22:44.593Z",
+            "updatedAt": "2024-09-08T10:22:44.593Z",
+            "__v": 0
+        },
+        {
+            "_id": "66dd7bb6026255e582d636a9",
+            "name": "BPSC + UPSC",
+            "slug": "bpsc-upsc",
+            "createdAt": "2024-09-08T10:25:58.318Z",
+            "updatedAt": "2024-09-08T10:25:58.318Z",
+            "__v": 0
+        },
+        {
+            "_id": "66dd7c33026255e582d636ad",
+            "name": "BOARD EXAM",
+            "slug": "board-exam",
+            "createdAt": "2024-09-08T10:28:03.080Z",
+            "updatedAt": "2024-09-08T10:28:03.080Z",
+            "__v": 0
+        },
+        {
+            "_id": "66dd7cc0026255e582d636b9",
+            "name": "TOEFL",
+            "slug": "toefl",
+            "createdAt": "2024-09-08T10:30:24.902Z",
+            "updatedAt": "2024-09-08T10:30:24.902Z",
+            "__v": 0
+        },
+        {
+            "_id": "66dd7b82026255e582d636a5",
+            "name": "NEET PG INI CET",
+            "slug": "neet-pg-ini-cet",
+            "createdAt": "2024-09-08T10:25:06.605Z",
+            "updatedAt": "2024-09-08T10:25:06.605Z",
+            "__v": 0
+        },
+        {
+            "_id": "66dd7c82026255e582d636b5",
+            "name": "UPPSC + UPSC",
+            "slug": "uppsc-upsc",
+            "createdAt": "2024-09-08T10:29:22.281Z",
+            "updatedAt": "2024-09-08T10:29:22.281Z",
+            "__v": 0
+        },
+        {
+            "_id": "66dd79ae026255e582d63699",
+            "name": "FOUNDATION 12+",
+            "slug": "foundation-12",
+            "createdAt": "2024-09-08T10:17:18.333Z",
+            "updatedAt": "2024-09-08T10:17:18.333Z",
+            "__v": 0
+        },
+        {
+            "_id": "66dd7d1c026255e582d636bd",
+            "name": "PRE FOUNDATION",
+            "slug": "pre-foundation",
+            "createdAt": "2024-09-08T10:31:56.389Z",
+            "updatedAt": "2024-09-08T10:31:56.389Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b871b36cbc3cef768b69f9",
+            "name": "RRB JE",
+            "slug": "rrb-je",
+            "createdAt": "2024-08-11T08:09:23.763Z",
+            "updatedAt": "2024-08-11T08:09:23.763Z",
+            "__v": 0
+        },
+        {
+            "_id": "66dd7c70026255e582d636b1",
+            "name": "IIT-JEE",
+            "slug": "iit-jee",
+            "createdAt": "2024-09-08T10:29:04.334Z",
+            "updatedAt": "2024-09-08T10:29:04.334Z",
+            "__v": 0
+        }
+    ]
+}
